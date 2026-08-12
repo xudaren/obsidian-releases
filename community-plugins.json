@@ -46114,5 +46114,13 @@
     "author": "zeven",
     "description": "Bidirectional WebDAV vault sync with conflict handling, encryption, and auto sync. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "zinkiv/vault-base-plugin"
+  },
+  {
+    "id": "unchanged-attachments-to-oss",
+    "name": "Unchanged Attachments to OSS",
+    "author": "xudaren",
+    "description": "Automatically upload images, audio, video, and PDFs to Aliyun OSS. Store as permanent oss:// references with dynamic 
+  signed URL rendering.",
+    "repo": "xudaren/unchanged-attachments-to-oss"
   }
 ]
